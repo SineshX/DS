@@ -9,6 +9,25 @@ Enjoy! :)
 
 ### **Data Structures List:**
 
+
+## Todo
+- [ ] rbtree
+   - [ ] top-down insertion
+   - [ ] top-down deletion
+- [ ] forward-list
+  - [ ] forward-list-separate (reduces FList struct)
+- [ ] hash-table
+   - [ ] builtin hash functions e.g. djb2
+   - [ ] resizing hash table
+- [ ] quick sort implementation for float, double, i32, u32, i64, u64
+- [ ] queue (working on this)
+- [ ] stack
+- [ ] binary heap / priority queue
+- [ ] dynamic array
+- [ ] octree
+- [ ] quadtree
+- [ ] b-tree
+
 #### Linear Data Structure:
 - [Stack - Basic Implementation](https://github.com/)
 - [Stack - Parentheses Balance Checking](https://github.com)
