@@ -2,3 +2,6 @@
 *.exe
 # Unignore '/bin' dirs
 .vscode/
+.vscode
+# ignore a specific file 
+tempCodeRunnerFile.c
