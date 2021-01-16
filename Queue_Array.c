@@ -72,7 +72,6 @@ void dequeqe()
     {   
         int x = queue[front];
         front = front + 1;
-        ;
         printf("You Deleted %d\n",x);
     }
     return;
