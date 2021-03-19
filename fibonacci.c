@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<stdlib.h>
 
-int fibo(int n);
+long int fibo(int n);
 int main()
 {   
     system("cls");
@@ -14,12 +14,12 @@ int main()
     {
         printf("%d\n",fibo(i)); //will go upto fibo(n-1)
     }
-    printf("%d\n",fibo(4));
+    // printf("%d\n",fibo(4));
       // will give 5th element = 3 // coz it starts from 0
     return 0;
 }
 /**************************/
-int fibo(int n)
+long int fibo(int n)
 {
     if(n==0)
         return 0;
